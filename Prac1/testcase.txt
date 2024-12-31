@@ -1,0 +1,11 @@
+Input       Result
+^           Invalid
+bbbb        Invalid
+aaa         Invalid
+baaabbb     Invalid
+aaabbb      Invalid
+baaabb      Invalid
+aaaab       Invalid
+abbabb      Invalid
+abb         Valid
+aaaaaabb    Valid
